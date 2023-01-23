@@ -1,0 +1,19 @@
+{
+  "name": "exp_api",
+  "version": "1.0.0",
+  "description": "Api for processing postgres data and sending it into react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "f1_database_project"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.8.0"
+  }
+}
